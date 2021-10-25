@@ -1,0 +1,10 @@
+{
+    "emmet.excludeLanguages": [
+        
+
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     },
+    "emmet.showSuggestionsAsSnippets": true
+}
